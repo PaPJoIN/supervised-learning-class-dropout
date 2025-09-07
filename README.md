@@ -6,13 +6,13 @@ Evaluating student demographics, engagement and performance metrics for predicti
 The data used in this project was divided into 3 stages, each representing the students' progression through their academic journey, starting with enrollment details, followed by incorporating engagement metrics and finally introducing subject gradings.
 
 ## 🔸 Methodology
-* Performed data exploration and preprocessing to prepare the necessary input format
-* Identified the key correlations between variables
-* Defined, compiled and trained the Neural Network models
-* Performed hyperparamater optimisation using Keras Tuner to further refine accuracy
-* Instantiated the Extreme Gradient Boosting model and trained it on the respective data.
-* Applied Grid & Ramdom-Search to further tune the XGBoost models
-* Calculated and compared the models' perfomances across a number of metrics [Accuracy, AUC, Recall & Precision]
+* Performed data exploration and the necessary preprocessing steps, including encoding and scaling.
+* Identified the key correlations between variables.
+* Defined, compiled and trained the Neural Network models.
+* Performed hyperparamater optimisation using Keras Tuner to further refine accuracy.
+* Instantiated and trained the Extreme Gradient Boosting models.
+* Applied Grid & Ramdom-Search to further tune the XGBoost models.
+* Calculated and compared the models' perfomances across a range of metrics [Accuracy, AUC, Recall & Precision].
 
 ## 🔸 Tools
 * Python, NumPy, Pandas
