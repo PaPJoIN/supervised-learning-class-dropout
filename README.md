@@ -21,6 +21,9 @@ The data used in this project was divided into 3 stages, each representing the s
 * XGboost & Sklearn's GridSearch Cross Validation 
 
 ## 🔸 Results & Findings
-* To add
+* The conducted data exploration and analysis provided valuable insights into the factors influencing student dropout. The predictive performance of both XGBoost and Neural Network models progressively improved across the three stages of data inclusion, demonstrating the benefit of incorporating more detailed and performance-based student information (Figures below).
 * To add
 * To add 
+
+<img width="1791" height="590" alt="image" src="https://github.com/user-attachments/assets/0a83bd72-a88f-409d-a933-307f0bccbc43" />
+<img width="592" height="166" alt="image" src="https://github.com/user-attachments/assets/294aad0b-ee66-410a-affb-5ca7c2d6aaea" />
