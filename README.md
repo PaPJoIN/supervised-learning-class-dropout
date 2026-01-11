@@ -3,16 +3,16 @@ Evaluating student demographics, engagement and performance metrics for predicti
 
 
 ## 🔸 Data
-The data used in this project was divided into 3 stages, each representing the students' progression through their academic journey, starting with enrollment details, followed by incorporating engagement metrics and finally introducing subject gradings.
+The data used in this project was divided into 3 stages, each representing the students' progression through their academic journey, starting with enrolment details, followed by incorporating engagement metrics and finally introducing subject gradings.
 
 ## 🔸 Methodology
 * Performed data exploration and the necessary preprocessing steps, including encoding and scaling.
 * Identified the key correlations between variables.
 * Defined, compiled and trained the Neural Network models.
-* Performed hyperparamater optimisation using Keras Tuner to further refine accuracy.
+* Performed hyperparameter optimisation using Keras Tuner to further refine accuracy.
 * Instantiated and trained the Extreme Gradient Boosting models.
-* Applied Grid & Ramdom-Search to further tune the XGBoost models.
-* Calculated and compared the models' perfomances across a range of metrics [Accuracy, AUC, Recall & Precision].
+* Applied Grid & Random-Search to further tune the XGBoost models.
+* Calculated and compared the models' performances across a range of metrics [Accuracy, AUC, Recall & Precision].
 
 ## 🔸 Tools
 * Python, NumPy, Pandas
@@ -22,7 +22,7 @@ The data used in this project was divided into 3 stages, each representing the s
 
 ## 🔸 Results & Findings
 * The conducted data exploration and analysis provided valuable insights into the factors influencing student dropout. The predictive performance of both XGBoost and Neural Network models progressively improved across the three stages of data inclusion, demonstrating the benefit of incorporating more detailed and performance-based student information (Figures below).
-* The findings further revealed areas for improvement. For this, a number of solutions were proposed for imporving in the recruitment & monitoring of student to ensure maximised rates of course completion, including:
+* The findings further revealed areas for improvement. For this, a number of solutions were proposed for improving in the recruitment & monitoring of student to ensure maximised rates of course completion, including:
   * **Refined Candidate Vetting and tracking Risk profiles per intake:** Conduct further refinement and incorporate predictive indicators identified in application data into the admissions process to better evaluate dropout risk and provide guided 
 support.
 
