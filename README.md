@@ -22,7 +22,7 @@ The data used in this project was divided into 3 stages, each representing the s
 
 ## 🔸 Results & Findings
 * The conducted data exploration and analysis provided valuable insights into the factors influencing student dropout. The predictive performance of both XGBoost and Neural Network models progressively improved across the three stages of data inclusion, demonstrating the benefit of incorporating more detailed and performance-based student information (Figures below).
-* The findings further revealed areas for improvement. For this, a number of solutions were proposed for improving in the recruitment & monitoring of student to ensure maximised rates of course completion, including:
+* To support the goal of improving student retention, the following recommendations are proposed based on the observed patterns in the data:
   * **Refined Candidate Vetting and tracking Risk profiles per intake:** Conduct further refinement and incorporate predictive indicators identified in application data into the admissions process to better evaluate dropout risk and provide guided 
 support.
 
